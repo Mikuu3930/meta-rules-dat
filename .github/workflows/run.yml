@@ -213,7 +213,7 @@ jobs:
         env:
           NO_SKIP: true
         run: |
-          go install -trimpath -ldflags="-s -w -buildid=" github.com/Mikuu3930/geo/cmd/geo@master
+          go install -trimpath -ldflags="-s -w -buildid=" github.com/metacubex/geo/cmd/geo@master
           geo convert site -i v2ray -o sing -f geosite.db ./custom/publish/geosite.dat
           geo convert site -i v2ray -o sing -f geosite-lite.db ./community/geosite-lite.dat
           geo convert ip -i v2ray -o sing -f geoip.db ./geoip.dat
