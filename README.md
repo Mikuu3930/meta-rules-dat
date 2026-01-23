@@ -2,24 +2,24 @@
 
 | 文件名              | Github release                                                                                                            | JSdelivr                                                                                                                           | JSdelivr-CF                                                                                                                              |
 |---------------------|---------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| country.mmdb        | [下载](https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/country.mmdb)                                 | [下载](https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/country.mmdb)                                                  | [下载](https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/country.mmdb)                                                  |
-| geoip.dat           | [下载](https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geoip.dat)                                    | [下载](https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geoip.dat)                                                       | [下载](https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geoip.dat)                                                       |
-| geoip.db            | [下载](https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geoip.db)                                     | [下载](https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geoip.db)                                                        | [下载](https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geoip.db)                                                        |
-| geoip.metadb        | [下载](https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geoip.metadb)                                 | [下载](https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geoip.metadb)                                                    | [下载](https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geoip.metadb)                                                    |
-| country-lite.mmdb   | [下载](https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/country-lite.mmdb)                            | [下载](https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/country-lite.mmdb)                                               | [下载](https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/country-lite.mmdb)                                               |
-| geoip-lite.dat      | [下载](https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geoip-lite.dat)                               | [下载](https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geoip-lite.dat)                                                  | [下载](https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geoip-lite.dat)                                                  |
-| geoip-lite.db       | [下载](https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geoip-lite.db)                                | [下载](https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geoip-lite.db)                                                   | [下载](https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geoip-lite.db)                                                   |
-| geosite.dat         | [下载](https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geosite.dat)                                  | [下载](https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geosite.dat)                                                     | [下载](https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geosite.dat)                                                     |
-| geosite.db          | [下载](https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geosite.db)                                   | [下载](https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geosite.db)                                                      | [下载](https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geosite.db)                                                      |
-| geosite-lite.dat    | [下载](https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geosite-lite.dat)                             | [下载](https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geosite-lite.dat)                                                 | [下载](https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geosite-lite.dat)                                                 |
-| geosite-lite.db     | [下载](https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/geosite-lite.db)                              | [下载](https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geosite-lite.db)                                                 | [下载](https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geosite-lite.db)                                                 |
-| GeoLite2-ASN.mmdb   | [下载](https://github.com/MetaCubeX/meta-rules-dat/releases/download/latest/GeoLite2-ASN.mmdb)                              | [下载](https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/GeoLite2-ASN.mmdb)                                                 | [下载](https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/GeoLite2-ASN.mmdb)                                                 |
+| country.mmdb        | [下载](https://github.com/Mikuu3930/meta-rules-dat/releases/download/latest/country.mmdb)                                 | [下载](https://cdn.jsdelivr.net/gh/Mikuu3930/meta-rules-dat@release/country.mmdb)                                                  | [下载](https://testingcf.jsdelivr.net/gh/Mikuu3930/meta-rules-dat@release/country.mmdb)                                                  |
+| geoip.dat           | [下载](https://github.com/Mikuu3930/meta-rules-dat/releases/download/latest/geoip.dat)                                    | [下载](https://cdn.jsdelivr.net/gh/Mikuu3930/meta-rules-dat@release/geoip.dat)                                                       | [下载](https://testingcf.jsdelivr.net/gh/Mikuu3930/meta-rules-dat@release/geoip.dat)                                                       |
+| geoip.db            | [下载](https://github.com/Mikuu3930/meta-rules-dat/releases/download/latest/geoip.db)                                     | [下载](https://cdn.jsdelivr.net/gh/Mikuu3930/meta-rules-dat@release/geoip.db)                                                        | [下载](https://testingcf.jsdelivr.net/gh/Mikuu3930/meta-rules-dat@release/geoip.db)                                                        |
+| geoip.metadb        | [下载](https://github.com/Mikuu3930/meta-rules-dat/releases/download/latest/geoip.metadb)                                 | [下载](https://cdn.jsdelivr.net/gh/Mikuu3930/meta-rules-dat@release/geoip.metadb)                                                    | [下载](https://testingcf.jsdelivr.net/gh/Mikuu3930/meta-rules-dat@release/geoip.metadb)                                                    |
+| country-lite.mmdb   | [下载](https://github.com/Mikuu3930/meta-rules-dat/releases/download/latest/country-lite.mmdb)                            | [下载](https://cdn.jsdelivr.net/gh/Mikuu3930/meta-rules-dat@release/country-lite.mmdb)                                               | [下载](https://testingcf.jsdelivr.net/gh/Mikuu3930/meta-rules-dat@release/country-lite.mmdb)                                               |
+| geoip-lite.dat      | [下载](https://github.com/Mikuu3930/meta-rules-dat/releases/download/latest/geoip-lite.dat)                               | [下载](https://cdn.jsdelivr.net/gh/Mikuu3930/meta-rules-dat@release/geoip-lite.dat)                                                  | [下载](https://testingcf.jsdelivr.net/gh/Mikuu3930/meta-rules-dat@release/geoip-lite.dat)                                                  |
+| geoip-lite.db       | [下载](https://github.com/Mikuu3930/meta-rules-dat/releases/download/latest/geoip-lite.db)                                | [下载](https://cdn.jsdelivr.net/gh/Mikuu3930/meta-rules-dat@release/geoip-lite.db)                                                   | [下载](https://testingcf.jsdelivr.net/gh/Mikuu3930/meta-rules-dat@release/geoip-lite.db)                                                   |
+| geosite.dat         | [下载](https://github.com/Mikuu3930/meta-rules-dat/releases/download/latest/geosite.dat)                                  | [下载](https://cdn.jsdelivr.net/gh/Mikuu3930/meta-rules-dat@release/geosite.dat)                                                     | [下载](https://testingcf.jsdelivr.net/gh/Mikuu3930/meta-rules-dat@release/geosite.dat)                                                     |
+| geosite.db          | [下载](https://github.com/Mikuu3930/meta-rules-dat/releases/download/latest/geosite.db)                                   | [下载](https://cdn.jsdelivr.net/gh/Mikuu3930/meta-rules-dat@release/geosite.db)                                                      | [下载](https://testingcf.jsdelivr.net/gh/Mikuu3930/meta-rules-dat@release/geosite.db)                                                      |
+| geosite-lite.dat    | [下载](https://github.com/Mikuu3930/meta-rules-dat/releases/download/latest/geosite-lite.dat)                             | [下载](https://cdn.jsdelivr.net/gh/Mikuu3930/meta-rules-dat@release/geosite-lite.dat)                                                 | [下载](https://testingcf.jsdelivr.net/gh/Mikuu3930/meta-rules-dat@release/geosite-lite.dat)                                                 |
+| geosite-lite.db     | [下载](https://github.com/Mikuu3930/meta-rules-dat/releases/download/latest/geosite-lite.db)                              | [下载](https://cdn.jsdelivr.net/gh/Mikuu3930/meta-rules-dat@release/geosite-lite.db)                                                 | [下载](https://testingcf.jsdelivr.net/gh/Mikuu3930/meta-rules-dat@release/geosite-lite.db)                                                 |
+| GeoLite2-ASN.mmdb   | [下载](https://github.com/Mikuu3930/meta-rules-dat/releases/download/latest/GeoLite2-ASN.mmdb)                              | [下载](https://cdn.jsdelivr.net/gh/Mikuu3930/meta-rules-dat@release/GeoLite2-ASN.mmdb)                                                 | [下载](https://testingcf.jsdelivr.net/gh/Mikuu3930/meta-rules-dat@release/GeoLite2-ASN.mmdb)                                                 |
 
 ### **rule-set**
 
-mihomo：[meta branch](https://github.com/MetaCubeX/meta-rules-dat/tree/meta)
+mihomo：[meta branch](https://github.com/Mikuu3930/meta-rules-dat/tree/meta)
 
-sing-box: [sing branch](https://github.com/MetaCubeX/meta-rules-dat/tree/sing)
+sing-box: [sing branch](https://github.com/Mikuu3930/meta-rules-dat/tree/sing)
 
 ## **country.mmdb,geoip.dat,geoip.db 内容**
 
@@ -78,7 +78,7 @@ rule-providers:
     interval: 86400
     path: ./provider/rule-set/cn_domain.yaml
     type: http
-    url: "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.yaml"
+    url: "https://raw.githubusercontent.com/Mikuu3930/meta-rules-dat/meta/geo/geosite/cn.yaml"
 
 dns:
   nameserver-policy:
@@ -116,7 +116,7 @@ rules:
 
 ## 辅助工具
 
-https://github.com/MetaCubeX/geo
+https://github.com/Mikuu3930/geo
 
 🗺 An easy way to manage all your Geo resources.
 
@@ -135,4 +135,5 @@ https://github.com/MetaCubeX/geo
 - [@DanPollock/hosts](https://someonewhocares.org/hosts)
 - [@crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker)
 - [@blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script)
+
 
